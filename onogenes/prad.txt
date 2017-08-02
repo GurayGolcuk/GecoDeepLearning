@@ -1,0 +1,21 @@
+Gene_Symbol	MutSig	MuSiC	Oncodrive	TUSON	DOTS_Finder	Vogelstein	PipelineCalls
+AKR1B1		NA	NA		x	x	2
+APC		NA	NA	x	x	x	3
+ATM	x	NA	NA	x		x	3
+CDKN1B		NA	NA	x	x		2
+CTNNB1		NA	NA		x	x	2
+FOXA1		NA	NA	x	x		2
+GPATCH4		NA	NA		x		1
+KAT6B		NA	NA	x			1
+KDM6A		NA	NA	x	x	x	3
+KMT2C		NA	NA	x		x	2
+KMT2D		NA	NA	x		x	2
+LPAR1		NA	NA		x		1
+MED12	x	NA	NA			x	2
+NKX3-1		NA	NA		x		1
+OR2T35		NA	NA	x	x		2
+PTEN		NA	NA	x	x	x	3
+RB1		NA	NA	x		x	2
+SPOP	x	NA	NA	x	x	x	4
+TP53	x	NA	NA	x	x	x	4
+ZMYM3		NA	NA	x			1

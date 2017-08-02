@@ -1,0 +1,114 @@
+Gene_Symbol	MutSig	MuSiC	Oncodrive	TUSON	DOTS_Finder	Vogelstein	PipelineCalls
+ACTG1			x				1
+ADNP	x						1
+AKR1B1		x				x	2
+AKT1	x					x	2
+ALKBH6	x						1
+ANK3	x		x				2
+ARAP3			x				1
+ARHGAP35	x	x	x				3
+ARID1A	x	x	x	x	x	x	6
+ARID5B	x	x	x	x	x		5
+ATF7IP			x				1
+ATM			x			x	2
+ATR		x	x				2
+BCOR	x					x	2
+CCDC6	x						1
+CCND1	x	x	x				3
+CHD3			x				1
+CHD4	x		x	x			3
+CNOT1			x				1
+CSDE1		x					1
+CTCF	x	x	x	x	x		5
+CTNNB1	x	x	x	x	x	x	6
+CTNND1			x				1
+CUX1	x						1
+DHX34			x				1
+DHX35			x				1
+DIAPH1	x						1
+DICER1			x				1
+DNER	x						1
+EIF2S2	x						1
+EP300	x		x	x		x	4
+ERBB3	x						1
+FAT1	x						1
+FBXW7	x	x	x	x		x	5
+FGFR2	x	x	x	x		x	5
+FOXA2		x	x	x			3
+GNPTAB	x						1
+HIST1H2BD		x					1
+ING1	x		x				2
+INPP4A			x				1
+INPPL1	x						1
+KCNN4					x		1
+KIAA1109			x				1
+KLHL8	x						1
+KMT2B		x					1
+KRAS	x	x	x	x	x	x	6
+LIMCH1				x			1
+MAP3K1			x	x		x	3
+MAX			x				1
+MBD1			x				1
+MECOM		x					1
+METTL14		x					1
+MICALCL	x						1
+MORC4	x						1
+MYCN	x						1
+NAA15			x				1
+NEB			x				1
+NEDD4L			x				1
+NELL2			x				1
+NFE2L2		x	x			x	3
+NRAS	x	x	x			x	4
+NUP93			x				1
+PBRM1			x			x	2
+PIK3CA	x	x	x	x		x	5
+PIK3R1	x	x	x	x	x	x	6
+PLCG1			x				1
+POLE	x		x				2
+PPM1D	x						1
+PPP2R1A	x	x	x	x	x	x	6
+PRPF8			x				1
+PTEN	x	x	x	x	x	x	6
+RAB3GAP1			x				1
+RASA1				x			1
+RBFOX2			x				1
+RPL22		x	x	x	x		4
+RSBN1L	x						1
+SACS	x						1
+SCN8A			x				1
+SELP	x						1
+SEMA4F			x				1
+SERPINB8	x						1
+SESN3			x				1
+SGK1	x	x					2
+SIN3A		x					1
+SLC1A3	x						1
+SLC44A3	x						1
+SMC1A			x				1
+SOS1	x						1
+SOX17	x	x	x				3
+SPOP	x	x	x			x	4
+STXBP1			x				1
+TAF1		x	x				2
+TAP1	x						1
+TBL1XR1	x						1
+TCP11L2	x						1
+TFDP1			x				1
+TNFAIP6		x					1
+TP53	x	x	x	x	x	x	6
+TPX2	x						1
+TRIOBP			x				1
+TTC21B			x				1
+TTLL9	x						1
+TXNDC8	x						1
+UBR5				x			1
+USP9X		x					1
+YBEY		x					1
+ZC3H12B			x				1
+ZFHX3	x	x	x	x	x		5
+ZFP36L2		x					1
+ZMYM2			x				1
+ZNF471	x						1
+ZNF620	x						1
+ZRANB3	x						1

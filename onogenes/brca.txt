@@ -1,0 +1,71 @@
+Gene_Symbol	MutSig	MuSiC	Oncodrive	TUSON	DOTS_Finder	Vogelstein	PipelineCalls
+AK9					x		1
+AKT1	x	x	x	x	x	x	6
+ANKRD12			x				1
+AOAH				x	x		2
+AQP7					x		1
+ARID1A	x	x	x	x		x	5
+ARID2				x		x	2
+ATM			x			x	2
+ATN1		x			x		2
+BAZ2A			x				1
+BRCA2			x			x	2
+CAD			x				1
+CASP8	x	x			x	x	4
+CBFB	x	x	x		x		4
+CCAR1			x				1
+CCDC144NL				x			1
+CDKN1B	x	x	x	x	x		5
+CROCCP2		x					1
+CTCF	x	x	x		x		4
+CUL4B	x						1
+DNAH14			x				1
+ERBB2	x					x	2
+FOXA1	x	x	x	x	x		5
+FRG1B		x					1
+FZR1	x	x	x	x	x	x	6
+GATA3	x	x	x	x	x	x	6
+GPS2					x		1
+HIST1H3B	x				x	x	3
+HNF1A				x		x	2
+KDM6A				x		x	2
+KMT2A	x						1
+KMT2C	x	x	x	x	x	x	6
+KRAS	x	x	x			x	4
+LINC00476		x					1
+MAGEC2		x					1
+MALAT1		x					1
+MAP2K4	x	x	x	x	x		5
+MAP3K1	x	x	x	x	x	x	6
+MED23	x			x	x		3
+MEF2A					x		1
+METAP1			x				1
+MLLT4			x				1
+MYB	x		x	x	x		4
+NBEAL2			x				1
+NCOR1	x	x	x	x	x	x	6
+NCOR2				x	x		2
+NF1		x	x	x		x	4
+PCDHGB6			x				1
+PIK3CA	x	x	x	x	x	x	6
+PIK3R1	x	x			x	x	4
+PTEN	x	x	x	x	x	x	6
+RAB40A	x						1
+RB1	x	x	x	x	x	x	6
+RBMX				x	x		2
+RUNX1	x	x	x	x	x	x	6
+SETD2				x		x	2
+SF3B2	x	x	x	x	x	x	6
+SPEN	x	x					2
+SRGAP1			x				1
+STAG2	x		x			x	3
+STXBP2					x		1
+TBL1XR1	x	x		x			3
+TBX3	x	x	x	x	x		5
+TICAM1		x					1
+TP53	x	x	x	x	x	x	6
+TTN		x					1
+UBC					x		1
+VEZF1		x					1
+ZFP36L1		x	x	x	x		4
+ZNF469		x					1

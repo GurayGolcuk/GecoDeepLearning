@@ -1,0 +1,16 @@
+Gene_Symbol	MutSig	MuSiC	Oncodrive	TUSON	DOTS_Finder	Vogelstein	PipelineCalls
+ATP10A	NA	NA	NA		x		1
+CDC27	NA	NA	NA	x	x		2
+DARS	NA	NA	NA		x		1
+IL32	NA	NA	NA	x	x		2
+KDM6A	NA	NA	NA	x	x	x	3
+NF2	NA	NA	NA	x	x	x	3
+NFE2L2	NA	NA	NA		x	x	2
+OGG1	NA	NA	NA		x		1
+PCF11	NA	NA	NA		x		1
+SAV1	NA	NA	NA		x		1
+SCAF11	NA	NA	NA		x		1
+SETD2	NA	NA	NA	x	x	x	3
+SLTM	NA	NA	NA		x	x	2
+SMARCB1	NA	NA	NA		x	x	2
+SRCAP	NA	NA	NA		x		1

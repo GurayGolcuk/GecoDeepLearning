@@ -1,0 +1,72 @@
+Gene_Symbol	MutSig	MuSiC	Oncodrive	TUSON	DOTS_Finder	Vogelstein	PipelineCalls
+ACVR1B			x			x	2
+ADAMTS2			x				1
+AHDC1		x					1
+AHNAK2		x					1
+AMY2B			x				1
+ARID1A	x		x	x		x	4
+ASPM		x					1
+ATM	x					x	2
+BRAF	x					x	2
+CD300LB			x				1
+CDKN2A	x	x		x	x	x	5
+CFAP47					x		1
+CFAP70				x			1
+CMTR2				x			1
+COL11A1					x		1
+CRIPAK		x		x			2
+DIS3L2			x				1
+DOT1L			x				1
+EGFR	x	x			x	x	4
+EPHA3		x					1
+EPHB6		x					1
+ERBB2	x					x	2
+FBN2		x					1
+FGFR2			x			x	2
+FN1			x				1
+FNDC3A			x				1
+G3BP1			x				1
+GPRIN1		x					1
+GVINP1		x					1
+HGF		x					1
+IARS2			x				1
+KEAP1	x	x	x	x			4
+KIAA1211		x					1
+KRAS	x	x	x	x	x	x	6
+MAGEC2		x					1
+MALAT1		x					1
+MAP2K1	x					x	2
+MGAM			x	x			2
+MMP2			x				1
+NAV3		x	x				2
+NBPF1	x						1
+NF1	x	x	x	x		x	5
+NLRP3		x					1
+NPAP1					x		1
+PIK3CA	x					x	2
+POLR3B			x				1
+POTEF		x					1
+PSMD11			x				1
+RB1	x		x	x		x	4
+RBM10	x		x	x	x		4
+RGPD4		x					1
+RIT1	x						1
+SETBP1		x				x	2
+SETD2			x	x		x	3
+SLC35F1				x			1
+SLC4A4	x						1
+SLTM	x					x	2
+SMARCA4	x		x	x		x	4
+STK11	x	x	x	x	x	x	6
+STX2	x						1
+TAAR5					x		1
+TANC2			x				1
+TLR4		x					1
+TMEM200A		x					1
+TP53	x	x	x	x	x	x	6
+TPTE					x		1
+TSHZ3		x					1
+TTN		x					1
+U2AF1	x		x			x	3
+ZNF702P		x					1
+ZNF711			x				1

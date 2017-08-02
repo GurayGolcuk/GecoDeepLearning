@@ -1,0 +1,61 @@
+Gene_Symbol	MutSig	MuSiC	Oncodrive	TUSON	DOTS_Finder	Vogelstein	PipelineCalls
+AGAP6		x					1
+ARID1A	x		x			x	3
+ATM	x		x	x		x	4
+BAP1	x	x	x	x	x	x	6
+CCDC120	x						1
+CCT6P1		x					1
+CLTC			x				1
+CNRIP1		x					1
+CROCCP2		x					1
+CROCCP3		x					1
+EGFR			x			x	2
+FAM86C2P		x					1
+FAM86DP		x					1
+FBN2			x				1
+GBAP1		x					1
+GOLGA6L5P		x					1
+GPRIN1		x					1
+GUSB	x		x				2
+HIVEP1			x				1
+KDM5C	x	x	x	x	x	x	6
+LARP1			x				1
+MALAT1		x					1
+MARCKS		x					1
+MEGF6			x				1
+MPO	x						1
+MTOR	x	x			x		3
+MUC2					x		1
+MUC4					x		1
+NBPF1		x					1
+NBPF9		x					1
+OR5H1					x		1
+PABPC1		x					1
+PBRM1	x	x	x	x	x	x	6
+PCMTD1		x					1
+PI4KAP1		x					1
+PIK3CA		x				x	2
+PITRM1			x				1
+PSME3			x				1
+PTEN	x	x	x			x	4
+RALGAPA1			x				1
+RHEBP1	x						1
+RPL13P5		x					1
+RRN3P3		x					1
+SCAF4					x		1
+SDHAP1		x					1
+SDHAP2		x					1
+SETD2	x	x	x	x	x	x	6
+SMARCA4					x	x	2
+SPAM1					x		1
+TCEB1	x						1
+TNRC18		x					1
+TP53	x	x			x	x	4
+TP53BP1			x				1
+TRIM51					x		1
+VHL	x	x	x	x	x	x	6
+WASH3P		x					1
+WHAMMP3		x					1
+WHSC1L1			x				1
+ZFP36L2		x					1
+ZNF814			x				1
